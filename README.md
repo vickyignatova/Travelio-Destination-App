@@ -21,8 +21,8 @@ Travelio is a digital solution that brings destinations together in one app, hel
 - **Design System/** – colors, typography, iconography and components
 - **UX/** – problem statement, user flow, user persona, and wireframes PDF
 - **Cover.jpg** – project cover image
-- **UI Layouts.jpg** – UI preview image
-- **Wireframes.jpg** – wireframes preview image
+- **UI Layouts.pdf** – UI preview image
+- **Wireframes.pdf** – wireframes preview image
 
 ## Tools Used
 
