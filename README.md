@@ -10,9 +10,9 @@ With so many destinations to choose from around the world, deciding where to tra
 
 Travelio is a digital solution that brings destinations together in one app, helping users discover and choose where to travel based on their personal preferences. The goal is to make travel planning easier, more personalized, and more enjoyable.
 
-![UI Layouts](UI%20Layouts.pdf)
+![UI Layouts](UI%20Layouts.jpg)
 
-![Wireframes](Wireframes.pdf)
+![Wireframes](Wireframes.jpg)
 
 ## Repository Contents
 
@@ -32,7 +32,6 @@ Figma
 
 To design a modern destination app that combines strong visual design with clear user experience thinking, making travel discovery more intuitive, personalized, and enjoyable.
 
-## Type of Project
+## Project
 
-UI/UX Design  
-Portfolio Project
+Intership @ Appolica Venture Studio
