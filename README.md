@@ -10,7 +10,7 @@ With so many destinations to choose from around the world, deciding where to tra
 
 Travelio is a digital solution that brings destinations together in one app, helping users discover and choose where to travel based on their personal preferences. The goal is to make travel planning easier, more personalized, and more enjoyable.
 
-![UI Layouts](UI%20Layouts.jpg)
+![UI Layouts](UI-Layouts.jpg)
 
 ![Wireframes](Wireframes.jpg)
 
