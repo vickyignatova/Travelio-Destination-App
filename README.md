@@ -32,6 +32,6 @@ Figma
 
 To design a modern destination app that combines strong visual design with clear user experience thinking, making travel discovery more intuitive, personalized, and enjoyable.
 
-## Project
+## Notes
 
-Intership @ Appolica Venture Studio
+This project was created during my internship at Appolica Venture Studio as a UX/UI design task.
